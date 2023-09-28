@@ -1,5 +1,5 @@
-#I it's Lucas
-#Git Stats
+# Hi it's Lucas
+# Git Stats
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lulumrs&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
